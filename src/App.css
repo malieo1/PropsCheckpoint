@@ -1,0 +1,22 @@
+h1{
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 3rem;
+  letter-spacing: 0.15rem;
+  text-transform: uppercase;
+  color: white;
+  text-shadow: -4px 4px rgb(207, 207, 138) ,
+  -8px 8px rgb(252, 252, 30)  ;
+  line-height: 3.8;
+}
+body {
+  background-color: linen;
+}
+h3{
+  text-align: center;
+  
+}
+img {
+  margin-left: 45%;
+  width: 13%;
+}
